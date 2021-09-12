@@ -53,5 +53,7 @@ public class App
         {
             System.out.println("You are overweight. You should see your doctor.");
         }
+
+        sc.close();
     }
 }
